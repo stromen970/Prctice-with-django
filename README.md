@@ -2,12 +2,12 @@
 <h2>These are the steps to follow for good programming</h2>
 <ul>
   <li>
-    Step1: Start project with this command "Django-admin startproject 'projectname'"
-    Project name will be given by yourself.
+    Step1: Start project with this command "Django-admin startproject 'firstproject'"
+    Project name firstproject.
     After creating projectname you want change directory from django envirnment to 
     project environment by using "cd" command
   </li>
-  <li>step:2 Start your app by using this command "py manage.py startapp your app name"</li>
+  <li>step:2 Start your app by using this command "py manage.py startapp your app name". Here i want togive myapp name is testapp</li>
   <li>
     step:3 Go to settings.py file in inside inner project.
     In settings.py we have 'INSTALLED_APPS' is their we are adding your app inside installed_apps
