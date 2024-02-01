@@ -19,7 +19,10 @@
     Step:5 Go to urls.py file in inside your inner project.
     Here we want to import our app views and inside urlpatterns you are given your urls
   </li>
-  <li>Step:6 Go to terminal type this command 'py manage.py runserver'</li>
-  <li>step:7 Django generates one link like this 'http://127.0.0.1:8000/' click on this link.</li>
+  <li>Step:6 Go to terminal type and run this command 'py manage.py runserver'</li>
+  <li>
+    step:7 Django generates one link like this 'http://127.0.0.1:8000/' click on this link or copy this link then go to chrome
+    browser paste that link in search bar.
+  </li>
   <li>Step:8 Send request</li>
 </ul>
